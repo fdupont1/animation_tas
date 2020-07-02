@@ -46,14 +46,16 @@ Ce projet a aussi pour objectif de manipuler pour apprendre :
 * Vérifier le tas avant extraction du minimum
 * animer le tableau en parallèle avec l'animation des noeuds
 * ajouter un élément graphique montrant plus clairement les valeurs entrées ou extraites du tas
-* possibilité de choisir entre un tas minimum et un tas maximum
-* possibilité de choisir des exemples de tas
+* ajouter la possibilité de choisir tas maximum
+* ajouter la possibilité de choisir entre un tas minimum et un tas maximum
+* ajouter la possibilité de choisir des exemples de tas (liens)
 * ajouter un compteur pour comptabiliser le nombre d'opérations effectuées pour tasser le tas
 * vérifier le tas après une modification et enlever la couleur rouge sur le bouton vérifier
 * vérifier les valeurs entrées et données une alerte avec les informations en cas de valeurs invalides (et longueur maximum : 31 valeurs)
 * permettre la sélection d'un noeud avec la souris
 * pouvoir mettre des décimaux en valeur de noeud
 * pouvoir mettre des lettres en valeur de noeud
+* ajouter une animation pour le tri
 
 ## Fichiers
 
