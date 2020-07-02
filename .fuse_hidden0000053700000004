@@ -35,8 +35,7 @@ La documentation est [sur cette page](http://f.dupont73.free.fr/structure_donnee
 ## Aprentissage
 
 Ce projet a aussi pour objectif de manipuler pour apprendre :
-
-* révisions et apprentissage de html/css/javascript, animation sur canvas, programmation orientée objet (je n'en ai jamais fais en JS)
+* révisions et apprentissage de html/css/javascript, animation sur canvas, programmation orientée objet (je n'en ai jamais fais en JS) 
 * manipulation sur la structure des données en tas
 * fonctions récursives
 * jsdoc pour gérer la documentation (suite à l'aprentissage des docstrings python et la génération de documentation à l'aide de sphinx)
