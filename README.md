@@ -4,6 +4,8 @@ Cette animation sera un support pour les élèves de NSI, afin de leur permettre
 
 Le tas est un tas minimale : la valeur racine est la valeur minimum du tas.
 
+Pour démarrer l'animation afficher le fichier **/sources/anim_tas.html** dans un navigateur (principalement testé avec Firefox).
+
 L'animation est disponible [sur ce site](http://f.dupont73.free.fr/structure_donnees/tas/animation/sources/anim_tas.html).
 
 La documentation est [sur cette page](http://f.dupont73.free.fr/structure_donnees/tas/animation/docs/)
